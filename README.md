@@ -7,4 +7,6 @@ android学习优质的资源整合
 
 2. [facebook官方android技术博客](https://code.facebook.com/android/)
 
+3. [优秀的开源项目源码分析](http://codekk.com/open-source-project-analysis)
+
 
