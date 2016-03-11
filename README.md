@@ -7,6 +7,6 @@ android学习优质的资源整合
 
 2. [facebook官方android技术博客](https://code.facebook.com/android/)
 
-3. [优秀的开源项目源码分析](http://codekk.com/open-source-project-analysis)
+3. [优秀的开源项目源码分析](http://codekk.com/open-source-project-analysis)  分析很到位，容易理解，很值得学习
 
 4. [开发技术前线](http://www.devtf.cn/)  高质量技术文章的聚合网站
